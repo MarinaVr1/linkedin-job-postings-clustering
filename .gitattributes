@@ -1,2 +1,6 @@
 data/postings.csv filter=lfs diff=lfs merge=lfs -text
 data/master_raw.csv filter=lfs diff=lfs merge=lfs -text
+data/data_full_scaled.csv filter=lfs diff=lfs merge=lfs -text
+data/X_pca_50.csv filter=lfs diff=lfs merge=lfs -text
+data/X_pca_70.csv filter=lfs diff=lfs merge=lfs -text
+data/X_pca_80.csv filter=lfs diff=lfs merge=lfs -text
