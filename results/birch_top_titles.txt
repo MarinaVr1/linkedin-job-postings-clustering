@@ -1,0 +1,42 @@
+birch
+================================================================================
+
+CLUSTER 0
+----------------------------------------
+Sales Manager: 632
+Customer Service Representative: 291
+Project Manager: 233
+Registered Nurse: 207
+Receptionist: 192
+Account Executive: 171
+Administrative Assistant: 167
+Executive Assistant: 164
+Maintenance Technician: 147
+Staff Accountant: 135
+
+CLUSTER 1
+----------------------------------------
+ASSISTANT STORE MANAGER: 161
+Store Manager: 150
+Assistant Store Manager: 140
+Retail Sales Associate: 134
+Sales Associate: 125
+Project Manager: 121
+OPERATIONS ASSISTANT MANAGER: 114
+Package Handler - Part Time (Warehouse like): 112
+CUSTOMER SERVICE REPRESENTATIVE: 105
+Salesperson: 97
+
+CLUSTER 2
+----------------------------------------
+Software Engineer: 139
+Senior Software Engineer: 121
+Data Analyst: 115
+Business Analyst: 97
+Data Engineer: 83
+Senior Accountant: 82
+Project Engineer: 65
+Electrical Engineer: 62
+Administrative Assistant: 56
+Financial Analyst: 54
+

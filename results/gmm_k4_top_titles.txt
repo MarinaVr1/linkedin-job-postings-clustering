@@ -1,0 +1,55 @@
+gmm_k4
+================================================================================
+
+CLUSTER 0
+----------------------------------------
+Software Engineer: 181
+Senior Software Engineer: 162
+Business Analyst: 143
+Data Analyst: 137
+Electrical Engineer: 122
+Project Engineer: 102
+Manufacturing Engineer: 97
+Quality Engineer: 92
+Data Engineer: 90
+Mechanical Engineer: 87
+
+CLUSTER 1
+----------------------------------------
+Senior Accountant: 171
+Administrative Assistant: 146
+Customer Service Representative: 129
+Staff Accountant: 113
+Associate Attorney: 98
+Licensed Therapist for Online Counseling: 94
+Controller: 93
+Registered Nurse: 92
+Mortgage Loan Officer: 80
+Physical Therapist: 80
+
+CLUSTER 2
+----------------------------------------
+Customer Service Representative: 232
+Receptionist: 174
+Registered Nurse - RN - LTAC: 130
+Registered Nurse: 115
+Package Handler - Part Time (Warehouse like): 112
+CUSTOMER SERVICE REPRESENTATIVE: 107
+Patient Care Technician: 107
+Maintenance Technician: 97
+Service Technician: 95
+Salesperson: 95
+
+CLUSTER 3
+----------------------------------------
+Sales Manager: 673
+Project Manager: 354
+Account Executive: 195
+Retail Sales Associate: 190
+Sales Associate: 189
+Executive Assistant: 174
+Account Manager: 171
+Store Manager: 166
+Assistant Manager: 161
+ASSISTANT STORE MANAGER: 161
+

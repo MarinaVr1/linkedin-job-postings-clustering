@@ -1,0 +1,55 @@
+kmeans
+================================================================================
+
+CLUSTER 0
+----------------------------------------
+Customer Service Representative: 236
+Receptionist: 176
+Retail Sales Associate: 139
+Registered Nurse - RN - LTAC: 130
+Package Handler - Part Time (Warehouse like): 112
+Registered Nurse: 109
+CUSTOMER SERVICE REPRESENTATIVE: 107
+Salesperson: 99
+Patient Care Technician: 97
+Service Technician: 95
+
+CLUSTER 1
+----------------------------------------
+Executive Assistant: 131
+Staff Accountant: 128
+Customer Service Representative: 122
+Administrative Assistant: 121
+Salesperson: 111
+Registered Nurse: 100
+Account Executive: 98
+Associate Attorney: 97
+Licensed Therapist for Online Counseling: 94
+Physical Therapist: 89
+
+CLUSTER 2
+----------------------------------------
+Sales Manager: 673
+Project Manager: 323
+Sales Associate: 182
+Store Manager: 166
+Account Manager: 165
+ASSISTANT STORE MANAGER: 161
+Assistant Manager: 160
+Assistant Store Manager: 155
+Business Development Manager: 126
+OPERATIONS ASSISTANT MANAGER: 114
+
+CLUSTER 3
+----------------------------------------
+Software Engineer: 160
+Senior Software Engineer: 141
+Data Analyst: 131
+Business Analyst: 125
+Senior Accountant: 108
+Data Engineer: 89
+Project Engineer: 85
+Electrical Engineer: 75
+Financial Analyst: 69
+Administrative Assistant: 65
+

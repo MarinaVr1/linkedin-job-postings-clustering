@@ -1,0 +1,120 @@
+gmm_k9
+================================================================================
+
+CLUSTER 0
+----------------------------------------
+Customer Service Representative: 103
+Administrative Assistant: 97
+Senior Accountant: 76
+Staff Accountant: 54
+Accountant: 48
+Salesperson: 48
+Associate Attorney: 41
+Controller: 38
+Executive Assistant: 38
+Financial Analyst: 36
+
+CLUSTER 1
+----------------------------------------
+Senior Accountant: 126
+Administrative Assistant: 106
+Controller: 89
+Staff Accountant: 86
+Mortgage Loan Officer: 78
+Board Certified Behavior Analyst (BCBA): 70
+Executive Assistant: 67
+Accountant: 65
+Customer Service Representative: 64
+Associate Attorney: 61
+
+CLUSTER 2
+----------------------------------------
+Sales Manager: 673
+Merchandise Manager: 35
+District Manager: 33
+Continuous Improvement Manager: 20
+District Sales Manager: 18
+Purchasing Manager: 16
+Proposal Manager: 16
+Sales Manager-DET: 15
+Sourcing Manager: 14
+Portfolio Manager: 14
+
+CLUSTER 3
+----------------------------------------
+Senior Software Engineer: 114
+Software Engineer: 113
+Data Analyst: 110
+Business Analyst: 84
+Data Engineer: 72
+Project Engineer: 64
+Electrical Engineer: 63
+Full Stack Engineer: 52
+Software Developer: 47
+Quality Engineer: 46
+
+CLUSTER 4
+----------------------------------------
+Customer Service Representative: 178
+Receptionist: 156
+Package Handler - Part Time (Warehouse like): 110
+CUSTOMER SERVICE REPRESENTATIVE: 107
+Patient Care Technician: 104
+Salesperson: 95
+Service Technician: 91
+Registered Nurse: 87
+Team Member: 81
+Warehouse Associate: 78
+
+CLUSTER 5
+----------------------------------------
+Registered Nurse - RN - LTAC: 130
+Licensed Therapist for Online Counseling: 94
+Physical Therapist: 79
+Registered Nurse: 78
+Certified Nursing Assistant (CNA): 75
+Maintenance Technician: 66
+Registered Nurse (RN): 53
+TEACHER-SPECIAL EDUCATION: 53
+Nurse Practitioner: 47
+HOSPICE REGISTERED NURSE: 44
+
+CLUSTER 6
+----------------------------------------
+Project Manager: 298
+Account Executive: 170
+Business Development Manager: 140
+Sales Executive: 114
+Accounting Manager: 100
+Account Manager: 100
+Executive Assistant: 92
+Outside Sales Representative: 91
+Senior Project Manager: 82
+Construction Project Manager: 74
+
+CLUSTER 7
+----------------------------------------
+Retail Sales Associate: 185
+Sales Associate: 182
+ASSISTANT STORE MANAGER: 161
+Store Manager: 156
+Assistant Store Manager: 151
+OPERATIONS ASSISTANT MANAGER: 114
+Assistant Manager: 109
+Sales Specialist: 90
+Seasonal Sales Associate: 86
+General Manager: 76
+
+CLUSTER 8
+----------------------------------------
+Software Engineer: 56
+Senior Software Engineer: 45
+Business Analyst: 31
+Mechanical Engineer: 31
+Manufacturing Engineer: 29
+Quality Engineer: 28
+Financial Analyst: 26
+Process Engineer: 25
+Junior Groomer: 24
+Developer: 24
+
