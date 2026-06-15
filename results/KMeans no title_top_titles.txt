@@ -1,0 +1,42 @@
+KMeans no title
+================================================================================
+
+CLUSTER 0
+----------------------------------------
+Sales Manager: 612
+Project Manager: 150
+Customer Service Representative: 121
+Executive Assistant: 116
+Staff Accountant: 114
+Senior Accountant: 107
+Sales Executive: 103
+Administrative Assistant: 94
+Account Executive: 94
+Registered Nurse: 89
+
+CLUSTER 1
+----------------------------------------
+Project Manager: 98
+Data Analyst: 83
+Software Engineer: 75
+Administrative Assistant: 72
+Business Analyst: 68
+Executive Assistant: 63
+Account Executive: 49
+Senior Accountant: 49
+Data Engineer: 45
+Senior Software Engineer: 40
+
+CLUSTER 2
+----------------------------------------
+Customer Service Representative: 232
+Retail Sales Associate: 178
+Sales Associate: 171
+Receptionist: 165
+ASSISTANT STORE MANAGER: 161
+Salesperson: 134
+Registered Nurse - RN - LTAC: 130
+Assistant Store Manager: 130
+Store Manager: 127
+Registered Nurse: 116
+
