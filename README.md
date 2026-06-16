@@ -1,35 +1,25 @@
 # LinkedIn Job Postings Clustering
 
-Projekat je razvijen u okviru predmeta **Istraživanje podataka 2** na Matematičkom fakultetu Univerziteta u Beogradu.
+This project was developed as part of the **Data Mining 2** course at the Faculty of Mathematics, University of Belgrade.
 
-Cilj projekta je analiza i klasterovanje LinkedIn oglasa za posao kako bi se identifikovale grupe sličnih poslova na osnovu njihovih karakteristika. Korišćenjem metoda pripreme podataka, redukcije dimenzionalnosti i različitih algoritama klasterovanja istraženi su obrasci koji povezuju zanimanja, potrebne veštine, nivo iskustva, benefite i karakteristike kompanija.
+The goal of the project is to analyze and cluster LinkedIn job postings in order to identify groups of similar jobs based on their characteristics. Using data preprocessing techniques, dimensionality reduction methods, and various clustering algorithms, the project explores patterns connecting job titles, required skills, experience levels, benefits, and company characteristics.
 
-Poseban fokus stavljen je na poređenje više algoritama klasterovanja i procenu kvaliteta dobijenih klastera kroz numeričke metrike i interpretaciju rezultata.
+Special attention was given to comparing multiple clustering algorithms and evaluating the quality of the resulting clusters through both quantitative metrics and qualitative interpretation.
 
 ## Dataset
 
-Korišćen je javno dostupan skup podataka sa Kaggle platforme:
+The project uses a publicly available dataset from Kaggle:
 
 https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
-Skup podataka sadrži informacije o:
-
-- oglasima za posao,
-- kompanijama,
-- platama,
-- industrijama,
-- veštinama,
-- benefitima,
-- veličini kompanija i broju zaposlenih.
-
-## Struktura projekta
+## Project Structure
 
 ```text
 linkedin-job-postings-clustering
 │
-├── data/               # originalni i obrađeni skupovi podataka
+├── data/               # raw and processed datasets
 │
-├── models/             # sačuvane labele i rezultati najboljih modela
+├── models/             # saved labels and outputs of the best-performing models
 │
 ├── notebooks/
 │   ├── preprocessing_data.ipynb
@@ -38,19 +28,21 @@ linkedin-job-postings-clustering
 │   ├── analysis_no_title.ipynb
 │   └── evaluation.ipynb
 │
-├── results/           # grafici, vizuelizacije i rezultati evaluacije
+├── results/            # plots, visualizations and evaluation results
 │
 ├── README.md
 └── .gitignore
 ```
-## Dokumentacija
 
-Detaljan opis korišćenih metoda, eksperimenata i rezultata nalazi se u seminarskom radu:
+## Documentation
 
-**[Dokumentacija projekta]()**
-## Tehnologije
+A detailed description of the methodology, experiments, and results can be found in the project report:
 
-Projekat je implementiran u Python-u korišćenjem sledećih biblioteka:
+**[Project Documentation](dokumentacija.pdf)**
+
+## Technologies
+
+The project was implemented in Python using the following libraries:
 
 - pandas
 - numpy
@@ -59,11 +51,11 @@ Projekat je implementiran u Python-u korišćenjem sledećih biblioteka:
 - scikit-learn
 - scipy
 
-Svi eksperimenti i analize realizovani su kroz Jupyter Notebook okruženje.
-## Autor
+All experiments and analyses were conducted using Jupyter Notebook.
+
+## Author
 
 **Marina Vračarić**
 
-Matematički fakultet  
-Univerzitet u Beogradu  
-Istraživanje podataka 2
+Faculty of Mathematics  
+University of Belgrade  
