@@ -38,7 +38,7 @@ linkedin-job-postings-clustering
 
 A detailed description of the methodology, experiments, and results can be found in the project report:
 
-**[Project Documentation](dokumentacija.pdf)**
+**[Project Documentation in Serbian](dokumentacija.pdf)**
 
 ## Technologies
 
